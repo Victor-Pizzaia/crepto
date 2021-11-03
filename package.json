@@ -1,0 +1,20 @@
+{
+  "name": "crepto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "crepto": "./src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.23.0",
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.4.1"
+  }
+}
